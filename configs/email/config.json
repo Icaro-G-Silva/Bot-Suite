@@ -1,0 +1,6 @@
+{
+ "smtpServer": "smtp.gmail.com",
+ "smtpPort": 465,
+ "smtpUser": "Email address that will send the emails",
+ "smtpPassword": "Password of smtpUser"
+}
