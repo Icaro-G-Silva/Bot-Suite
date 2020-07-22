@@ -51,11 +51,11 @@ class PreText:
     HELP_MESSAGE = f'''{Colors.OKBLUE}
         Check the items out!
 
-        ZapBot -> Description
+        ZapBot -> Whatsapp Bot that send messages to N contacts you want to.
 
-        WeatherBot -> Description
+        WeatherBot -> Weather Bot that catch the forecast informations according to the coordinates and send you a formatted email
 
-        CovidBot -> Description{Colors.ENDC}'''
+        CovidBot -> Covid Bot that do the track of coronavirus in the Brazil and save the information into archives (json and txt){Colors.ENDC}'''
 
     ZAP_MENU = f'''{Colors.BOLD}
         1) Flood System ;p
